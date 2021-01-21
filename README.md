@@ -1,4 +1,4 @@
-<h1> Hi there  I am Mike Manchee👋</h1>
+<h1> Hi there, I am Mike Manchee👋</h1>
 
 <a href="https://www.linkedin.com/in/mikemanchee/">
   <img align="left" alt="Mike's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
