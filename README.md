@@ -1,4 +1,5 @@
-<h1> Hi there, I am Mike Manchee👋</h1>
+<h1> Hi there, I am Mike Manchee👋 </h1>
+<h2> Thank you for stopping by!</h2>
 
 <a href="https://www.linkedin.com/in/mikemanchee/">
   <img align="left" alt="Mike's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -10,7 +11,7 @@
 - 🤔 &nbsp; Developing thoughtful solutions to challenging problems is a passion.
 - 🎓 &nbsp; Studying Coding through [Epicodus](https://www.epicodus.com/) and Self-training.
 - 💼 &nbsp; Currently looking for work in the Seattle Area Tech Industry.
-- 🌱 &nbsp; Allways looking for new projects to build and learning more.
+- 🌱 &nbsp; Always looking for new projects to build and grow my knowledge.
 
 <h2>Tech Knowledge</h2>
 
